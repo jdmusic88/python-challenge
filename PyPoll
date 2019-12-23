@@ -1,5 +1,5 @@
 import os
-import csvv
+import csv
 
 # Files to load and output (Remember to change these)
 file_to_load = "raw_data/election_data_2.csv"
